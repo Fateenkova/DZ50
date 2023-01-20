@@ -1,0 +1,15 @@
+C:\Users\sergey\Desktop\гит\гит новая\C#DZ\DZ50-c#\bin\Debug\net6.0\DZ50-c#.exe
+C:\Users\sergey\Desktop\гит\гит новая\C#DZ\DZ50-c#\bin\Debug\net6.0\DZ50-c#.deps.json
+C:\Users\sergey\Desktop\гит\гит новая\C#DZ\DZ50-c#\bin\Debug\net6.0\DZ50-c#.runtimeconfig.json
+C:\Users\sergey\Desktop\гит\гит новая\C#DZ\DZ50-c#\bin\Debug\net6.0\DZ50-c#.dll
+C:\Users\sergey\Desktop\гит\гит новая\C#DZ\DZ50-c#\bin\Debug\net6.0\DZ50-c#.pdb
+C:\Users\sergey\Desktop\гит\гит новая\C#DZ\DZ50-c#\obj\Debug\net6.0\DZ50-c#.csproj.AssemblyReference.cache
+C:\Users\sergey\Desktop\гит\гит новая\C#DZ\DZ50-c#\obj\Debug\net6.0\DZ50-c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sergey\Desktop\гит\гит новая\C#DZ\DZ50-c#\obj\Debug\net6.0\DZ50-c#.AssemblyInfoInputs.cache
+C:\Users\sergey\Desktop\гит\гит новая\C#DZ\DZ50-c#\obj\Debug\net6.0\DZ50-c#.AssemblyInfo.cs
+C:\Users\sergey\Desktop\гит\гит новая\C#DZ\DZ50-c#\obj\Debug\net6.0\DZ50-c#.csproj.CoreCompileInputs.cache
+C:\Users\sergey\Desktop\гит\гит новая\C#DZ\DZ50-c#\obj\Debug\net6.0\DZ50-c#.dll
+C:\Users\sergey\Desktop\гит\гит новая\C#DZ\DZ50-c#\obj\Debug\net6.0\refint\DZ50-c#.dll
+C:\Users\sergey\Desktop\гит\гит новая\C#DZ\DZ50-c#\obj\Debug\net6.0\DZ50-c#.pdb
+C:\Users\sergey\Desktop\гит\гит новая\C#DZ\DZ50-c#\obj\Debug\net6.0\DZ50-c#.genruntimeconfig.cache
+C:\Users\sergey\Desktop\гит\гит новая\C#DZ\DZ50-c#\obj\Debug\net6.0\ref\DZ50-c#.dll
